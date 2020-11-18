@@ -1,0 +1,44 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+   }
+
+.p1{
+padding-bottom:10% ;
+padding-right:80px ;
+    /*padding-top: 30px;*/
+
+}
+
+.p2{
+    padding-right:80px ;
+
+}
+
+.contenedor{
+overflow: hidden;
+
+
+
+}
+
+.contacto{
+float: left;
+margin-left: 80px;
+}
+
+.imagen{
+    float: left;
+    margin-left: 200px;
+}
+
+.pie{
+border: 2px black solid;
+background-color: mediumturquoise;
+}
+
+
+input{
+    width: 33%;
+    text-align: center;
+}
